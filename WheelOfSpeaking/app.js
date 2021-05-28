@@ -71,6 +71,10 @@
       text: "Clothes",
       color: "hsl(43 74% 66%)",
     },
+    {
+      text: "Animals",
+      color: "hsl(12 76% 61%)",
+    },
   ];
   
   const wheel = document.querySelector(".deal-wheel");
